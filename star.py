@@ -10,4 +10,6 @@ while True:
         break
 end_fill()
 
+backward(100)
+write("May the force be with you!", align="right")
 exitonclick()
