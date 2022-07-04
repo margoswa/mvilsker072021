@@ -1,7 +1,7 @@
 from turtle import *
 shape("turtle")
 speed(10)
-color('darkgreen', 'green')
+color('darkgreen', 'orange')
 begin_fill()
 while True:
     forward(200)
