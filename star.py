@@ -9,4 +9,5 @@ while True:
     if abs(pos()) < 1:
         break
 end_fill()
+write("May the force be with you!", align="right")
 exitonclick()
