@@ -4,10 +4,10 @@ speed(10)
 color('darkgreen', 'orange')
 begin_fill()
 while True:
-    forward(350)
-    left(140)
+    forward(250)
+    left(170)
     if abs(pos()) < 1:
         break
 end_fill()
-write("May the force be with you!", align="right")
+
 exitonclick()
